@@ -1,0 +1,20 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Viacheslav dankov",
+    "classifications": [
+        "Web",
+        "Clean Architecture Project",
+        "API",
+        "Microservice"
+    ],
+    "identity": "vidankov.cleanarchitecture.template",
+    "name": "Clean Architecture Project by Viacheslav Dankov",
+    "description": "Микросервис с Clean Architecture. Author: Viacheslav Dankov (GitHub: @vidankov)",
+    "shortName": "Capi",
+    "sourceName": "Capi",
+    "preferNameDirectory": true,
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    }
+}
