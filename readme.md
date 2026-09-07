@@ -31,15 +31,6 @@ dotnet nuget add source https://nuget.pkg.github.com/<GITHUB_USERNAME>/index.jso
   --store-password-in-clear-text
 ```
 
-### Конкретный пример
-```bash
-dotnet nuget add source https://nuget.pkg.github.com/vidankov/index.json \
-  --name github-vidankov \
-  --username vidankov \
-  --password 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 \
-  --store-password-in-clear-text
-```
-
 ### 2. Установить шаблон
 
 ```bash
